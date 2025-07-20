@@ -1,0 +1,12 @@
+# Ignore build outputs
+*.exe
+*.out
+*.obj
+
+# Ignore debug files
+*.log
+
+# Ignore folders
+build/
+Debug/
+Release/
